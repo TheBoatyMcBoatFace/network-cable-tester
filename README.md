@@ -14,7 +14,7 @@ Tests Conducted
 5. Crosstalk
 ...Checks for interference or unwanted signals within the cable
 6. Termination Wiremap
-...Ensures proper connection & order for RJ45, keystone, & patch panels. Each pair must be connected to the correct pins at the plugs and jacks, with good contacts in the terminations.
+...Ensures proper connection & order for RJ45, keystone, & patch panels. 
 7. Shielding
 ...Checks for presense of shielding and proper instalation
 8. Transmittion Speed
