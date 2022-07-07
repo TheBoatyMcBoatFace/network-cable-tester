@@ -4,6 +4,7 @@ A tool to test network cables
 
 ### Tests Conducted
 |**#**| **Test** | **Description** |
+| ----------- | ----------- | ----------- |
 |1|Continuity|Checks for any short or broken circuits within the cable|
 |2|Circuit|Ensures that each wire within the cable is able to hangle meet baseline voltage requirements of 48v PoE|
 |3|Cable Length|Measures length of cable|
