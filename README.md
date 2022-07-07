@@ -4,11 +4,9 @@ A tool to test network cables
 
 Tests Conducted
 1. Continuity
-
-...Checks for any short or broken circuits within the cable
+...Checks for any short or broken circuits within the cable.⋅⋅
 2. Circuit
-
-...Ensures that each wire within the cable is able to hangle meet baseline voltage requirements of 48v PoE
+...Ensures that each wire within the cable is able to hangle meet baseline voltage requirements of 48v PoE.⋅⋅
 3. Packet Loss
 
 ...Checks for cable packet loss
